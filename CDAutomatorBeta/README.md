@@ -1,0 +1,1 @@
+Este é um Software baseado em automatizar cortes do youtube
